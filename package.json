@@ -1,0 +1,21 @@
+{
+    "name": "com.dimati.update.execution",
+    "displayName": "Update Execution Sigleton",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "unityRelease": "",
+    "description": "",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [
+        "Base"
+    ],
+    "category": "Base",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/UpdateExecutionSingleton.git"
+    },
+    "gitDependencies": {
+    },
+    "dependencies": {
+    }
+}
